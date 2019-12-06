@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+
+ <g class="layer">
+  <title>Layer 1</title>
+  <path d="m212.70001,79.60001" fill="#FF0000" id="svg_7" opacity="0.5" stroke="#000000" stroke-width="5"/>
+  <text fill="#000000" font-family="serif" font-size="24" id="svg_1" stroke="#000000" stroke-width="0" text-anchor="middle" x="381.700012" xml:space="preserve" y="255.100006"/>
+  <polygon cx="317.700012" cy="227.299988" fill="#000000" id="svg_13" orient="point" point="5" points="317.70001220703125,87.6973771838226 350.5225544860652,182.12363401620573 450.4699847186746,184.16040865563426 370.8080012116886,244.55581944790254 399.7563679046161,340.2408722348763 317.70001220703125,283.1410320366272 235.6436565094464,340.2408722348763 264.5920232023739,244.55581944790254 184.93003969538785,184.16040865563428 284.8774699279973,182.12363401620573 317.70001220703125,87.6973771838226 350.5225544860652,182.1236340162057 " r="139.602611" r2="55.841044" shape="star" stroke-width="0" strokeWidth="0" strokecolor="none"/>
+  <text fill="#ffffff" font-family="serif" font-size="24" id="svg_14" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" transform="matrix(6.78258, 0, 0, 5.02635, -2567.69, -940.132)" x="424.400552" xml:space="preserve" y="235.478222">cav</text>
+ </g>
+</svg>

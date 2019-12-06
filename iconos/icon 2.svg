@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+
+ <g class="layer">
+  <title>Layer 1</title>
+  <path d="m212.70001,79.60001" fill="#FF0000" id="svg_7" opacity="0.5" stroke="#000000" stroke-width="5"/>
+  <polygon cx="193.5" cy="118.899994" edge="110.435502" fill="#389338" id="svg_13" orient="x" points="394.42694091796875,182.4117889404297 331.42559814453125,297.2560119628906 229.48724365234375,253.38943481445312 229.48724365234375,111.43419647216797 331.42559814453125,67.56760025024414 394.42694091796875,182.4117889404297 " shape="regularPoly" sides="5" stroke="#000000" stroke-width="5" strokeWidth="5" strokecolor="#000000" transform="rotate(-89.8057, 311.957, 182.412)"/>
+  <text fill="#000000" font-family="serif" font-size="76" id="svg_8" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" x="308.5" xml:space="preserve" y="216.899994">CAV</text>
+  <polygon cx="185.5" cy="60.899994" edge="0" fill="none" id="svg_15" orient="x" shape="regularPoly" sides="5" strokeWidth="5" strokecolor="#000000"/>
+  <polygon cx="218.5" cy="31.899994" edge="0" fill="none" id="svg_16" orient="x" shape="regularPoly" sides="5" strokeWidth="5" strokecolor="none"/>
+  <polygon cx="217.5" cy="29.899994" edge="0" fill="none" id="svg_17" orient="x" shape="regularPoly" sides="5" strokeWidth="5" strokecolor="none"/>
+  <polygon cx="217.5" cy="25.899994" edge="2.981424" fill="none" id="svg_18" orient="x" points="220.0361507101204,25.899993896484375 218.28371366972328,28.31201655565097 215.4482109752165,27.390705881484234 215.4482109752165,24.409281911484516 218.28371366972328,23.48797123731778 220.0361507101204,25.899993896484375 " shape="regularPoly" sides="5" stroke-width="5" strokeWidth="5" strokecolor="none"/>
+  <polygon cx="147.5" cy="180.899994" edge="0" fill="none" id="svg_37" orient="x" points="147.5,180.89999389648438 147.5,180.89999389648438 147.5,180.89999389648438 147.5,180.89999389648438 147.5,180.89999389648438 147.5,180.89999389648438 " shape="regularPoly" sides="5" stroke-width="5" strokeWidth="5" strokecolor="none"/>
+ </g>
+</svg>
